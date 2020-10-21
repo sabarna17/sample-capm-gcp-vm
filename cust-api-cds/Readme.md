@@ -19,10 +19,10 @@ Lets execute the API - [API_without_CDS](http://localhost:4004/API_without_CDS)
 From postman your APIs will be as below:
 
 ### CDS-API -
-!(https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/cust-api-cds/cds-api.PNG)
+![](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/cust-api-cds/cds-api.PNG)
 
 ### CDS-API -
-!(https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/cust-api-cds/cust-api.PNG)
+![](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/cust-api-cds/cust-api.PNG)
 
 ### like this method you can enhance the entire CDS services according to your requirement
 
