@@ -1,4 +1,1 @@
-# Auto Start CF Login from Windows
-# Cust API with CDS
-# Deploy CDS in GCP
-# CDS + Node-RED
+# [Auto Start CF Login from Windows](https://github.com/sabarna17/sample-capm-gcp-vm/tree/main/cf%20bat)
