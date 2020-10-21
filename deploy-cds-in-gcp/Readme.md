@@ -41,7 +41,10 @@ gcloud config set project tidal-analogy-285516
 gcloud app deploy
 ```
 6. Your API is not being hosted in GCP:
-![CDS-in-GCP](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/deploy-cds-in-gcp/deployedinGCP.PNG)]
+
+
+![CDS-in-GCP](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/deploy-cds-in-gcp/deployedinGCP.PNG)
+
 
 ## Read more
 [Create GCP account](https://cloud.google.com/billing/docs/how-to/manage-billing-account)
