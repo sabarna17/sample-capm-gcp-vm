@@ -1,6 +1,6 @@
-# Auto login in SAP Cloud Foundry from your laptop
+# Auto login in SAP Cloud Foundry from your Windows Machine
 ## This is for Widows Machine only
 
 Follow to the below path and paste the .bat file
-<USERNAME> = SABARNAPC
-C:\Users\<USERNAME>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+C:\Users\{Your USERNAME}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
