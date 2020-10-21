@@ -12,6 +12,8 @@ The below technique is just an way to enhance the way we can write code in NodeJ
 2. Change the existing CDS 'server.js' file - node_modules>@sap>cds>server.js
    - To change the file use reference code from [server.js](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/cust-api-cds/server.js) file
 
+3. Check the changes in the existing server.js - line no - 29,57
+
 ## Testing:
 Lets execute the API - [API_without_CDS](http://localhost:4004/API_without_CDS)
 
