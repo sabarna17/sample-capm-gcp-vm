@@ -40,6 +40,8 @@ gcloud config set project tidal-analogy-285516
 ```sh
 gcloud app deploy
 ```
+![deployment](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/deploy-cds-in-gcp/deploymenttoGCP.PNG)
+
 6. Your API is not being hosted in GCP:
 
 
