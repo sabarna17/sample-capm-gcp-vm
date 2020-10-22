@@ -7,7 +7,7 @@ You can create a CDS Service and write some NodeJS scripts and enhance the exist
 3. Full Control along with the API
 
 ## Solution:
-The below technique is just an way to enhance the way we can write code in NodeJS
+The below technique is just a way to enhance the way we can write code in NodeJS
 1. Create a myCustAPI.js file as given here [myCustAPI.js](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/my-bookshop/myCustAPI.js)
 2. Change the existing CDS 'server.js' file - node_modules>@sap>cds>server.js
    - To change the file use reference code from [server.js](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/cust-api-cds/server.js) file
