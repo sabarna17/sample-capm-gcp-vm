@@ -1,5 +1,5 @@
 # Deploy your CDS package in GCP App Engine
-Here I have tried to deploy an CDS Project to GCP.
+Here I have tried to deploy a CDS Project to GCP.
 
 ## Prerequisite
 1. GCP account is active. If no, click here and see details - [GCP](https://cloud.google.com/free)
