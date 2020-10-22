@@ -48,6 +48,11 @@ gcloud app deploy
 ![CDS-in-GCP](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/deploy-cds-in-gcp/deployedinGCP.PNG)
 
 
+7. Ta da it got deployed:
+
+
+![CDS-in-GCP](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/deploy-cds-in-gcp/deployed-in-GCP.PNG)
+
 ## Read more
 [Create GCP account](https://cloud.google.com/billing/docs/how-to/manage-billing-account)
 (https://cloud.google.com/appengine/docs/standard/nodejs/building-app)
