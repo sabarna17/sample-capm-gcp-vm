@@ -51,3 +51,10 @@ gcloud app deploy
 ## Read more
 [Create GCP account](https://cloud.google.com/billing/docs/how-to/manage-billing-account)
 (https://cloud.google.com/appengine/docs/standard/nodejs/building-app)
+
+## Common Error
+This deployment might give you the error as - "Internal server error" Whenever Catalog urls are executed.
+- To solve this use the [package.json](https://github.com/sabarna17/sample-capm-gcp-vm/blob/main/deploy-cds-in-gcp/package.json) file
+
+
+
