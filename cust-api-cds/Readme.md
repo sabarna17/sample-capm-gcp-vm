@@ -1,5 +1,5 @@
 # Custom NodeJS API with CDS Service
-You can create an CDS Service and write some NodeJS scripts and enhance the existing modules.
+You can create a CDS Service and write some NodeJS scripts and enhance the existing modules.
 
 ## Problem with CDS:
 1. Custom output structure is hard to expose.
